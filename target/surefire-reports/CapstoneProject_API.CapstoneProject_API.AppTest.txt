@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: CapstoneProject_API.CapstoneProject_API.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 s - in CapstoneProject_API.CapstoneProject_API.AppTest

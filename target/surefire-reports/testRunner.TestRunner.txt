@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 5.801 s <<< FAILURE! - in testRunner.TestRunner
+Add a new product(API Testing for User, Product, and Order Management)  Time elapsed: 0.169 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+JSON path [0].name doesn't match.
+Expected: Product1
+  Actual: null
+
+
+Delete a user account(API Testing for User, Product, and Order Management)  Time elapsed: 0.04 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <204> but was <404>.
+
+
